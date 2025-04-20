@@ -1,0 +1,11 @@
+{
+  "name": "sql-ast-query-compiler",
+  "version": "1.6.0",
+  "description": "Type-safe fluent SQL query builder and dialect compiler",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
