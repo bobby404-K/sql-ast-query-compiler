@@ -1,5 +1,5 @@
 # Changelog
-## [1.25] - 2025-05-28
+## [1.29] - 2025-06-04
 - Enhanced core subsystem performance and state invariants.
 - Expanded comprehensive automated unit test coverage.
 - Optimized zero-copy memory buffers and latency profile.
